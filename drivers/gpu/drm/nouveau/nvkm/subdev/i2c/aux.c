@@ -1,4 +1,4 @@
-/*
+ *
  * Copyright 2009 Red Hat Inc.
  *
  * Permission is hereby granted, free of charge, to any person obtaining a
@@ -20,7 +20,7 @@
  * OTHER DEALINGS IN THE SOFTWARE.
  *
  * Authors: Ben Skeggs
- */
+ *
 #include "aux.h"
 #include "pad.h"
 
